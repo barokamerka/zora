@@ -1,0 +1,3 @@
+Content for javascript.txt
+Line 1
+Line 2
