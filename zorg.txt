@@ -8,3 +8,4 @@ neural
 chatbot
 openai
 documentation
+security
