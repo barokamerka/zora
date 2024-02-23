@@ -10,3 +10,4 @@ openai
 documentation
 security
 github
+framework
