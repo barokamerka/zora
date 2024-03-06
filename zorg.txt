@@ -11,3 +11,4 @@ documentation
 security
 github
 framework
+algorithm
